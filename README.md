@@ -55,6 +55,8 @@ La méthode du coude (Elbow Method) a permis d'examiner plusieurs nombres de clu
 
 Les huit clusters sont ensuite analysés selon le jour de la semaine et l'heure de prise en charge afin d'identifier les périodes de forte demande dans chaque zone géographique.
 
+![Carte des zones de demande Uber](carte_uber.png)
+
 2. **Analyse de 2015 : clustering selon le volume de courses**
 
 Pour 2015, le nombre de courses est calculé pour chaque zone géographique à partir de son identifiant LocationID.
